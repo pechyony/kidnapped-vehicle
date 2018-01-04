@@ -1,4 +1,4 @@
-# kidnapped-vehicle
+# Localization of Kidnapped Vehicle
 Project 3 of term 2 of Udacity self-driving car nanodegree
 
 ## Setup
