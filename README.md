@@ -1,6 +1,6 @@
 # Localization of Kidnapped Vehicle
 
-Localization of moving vehicle using particle filter
+Localization of moving car using particle filter, noisy GPS estimate of car's initial location, and lots of noisy sensor and control data.
 
 [![simulator test](images/screenshot.png)](https://www.youtube.com/watch?v=KV1M9-HSgcU) 
 
