@@ -1,5 +1,8 @@
 # Localization of Kidnapped Vehicle
-Project 3 of term 2 of Udacity self-driving car nanodegree
+
+Localization of moving vehicle using particle filter
+
+[![simulator test](images/screenshot.png)](https://www.youtube.com/watch?v=KV1M9-HSgcU) 
 
 ## Setup
 
